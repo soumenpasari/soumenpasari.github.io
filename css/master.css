@@ -52,3 +52,13 @@ a.panel-block:hover, label.panel-block:hover {
     background-color: transparent !important;
 	background-image: linear-gradient(90deg, rgba(34, 85, 85, 0.3),rgba(153, 0, 153, 0.1)) !important;
 }
+.has-background-grad
+{
+	background-color: transparent !important;
+	background-image: linear-gradient(50deg, rgba(34, 85, 85, 1),rgba(153, 0, 153, 1)) !important;
+}
+.progress.is-grad
+{
+	background-color: transparent !important;
+	background-image: linear-gradient(50deg, rgba(34, 85, 85, 0.2),rgba(153, 0, 153, 0.2)) !important;
+}
